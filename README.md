@@ -3,13 +3,11 @@
   <img src="./1748363653753.jpeg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi! <br>I am Omar Faruk.</h1>
-<h2 align="center">Front End Developer</h2>
 
 <!-- About Me -->
 <p align="center">
   Passionate Front End Developer with experience in building responsive, interactive websites using HTML, CSS, Tailwind, Bootstrap, and JavaScript. <br>
-  Currently diving deeper into modern frameworks like React and exploring Firebase for full-stack applications.
+  Currently diving deeper into modern frameworks like React, exploring Firebase, Express and MongoDB for full-stack applications.
 </p>
 
 <br/>
