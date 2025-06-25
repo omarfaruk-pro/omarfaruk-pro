@@ -49,9 +49,7 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarfaruk-pro&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omarfaruk-pro&theme=default&hide_border=false" alt="GitHub Streak" />
-  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruk-pro&layout=compact&hide_border=false" alt="Top Languages" />
 </div>
 
