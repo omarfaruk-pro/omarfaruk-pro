@@ -1,8 +1,5 @@
-<h1 align="center">Hi! <br>I am Omar Faruk.</h1><h2 align="center">Front End Developer</h2>
-###
-
-
-
+<h1 align="center">Hi! <br>I am Omar Faruk.</h1>
+<h2 align="center">Front End Developer</h2>
 ###
 
 <div align="center">
