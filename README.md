@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/t7hnGSm.png" alt="Banner" width="100%" />
+  <img src="./1748363653753.jpeg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi! <br>I am Omar Faruk.</h1>
