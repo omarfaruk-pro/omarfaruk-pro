@@ -42,6 +42,7 @@
 - ⚛️ React JS
 - 🔥 Firebase
 - 🧠 Git & GitHub, VS Code
+- 🌐 Express.js, MongoDB
 - 🖱️ jQuery (basic)
 
 <br/>
