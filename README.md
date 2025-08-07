@@ -40,6 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=omarfaruk-pro&show_icons=true&theme=dark" width="400">
 </p>
 <br/>
+
 <!-- Tech Stack Section -->
 ### 🛠 Tech Stack
 - 💻 HTML, CSS, JavaScript
