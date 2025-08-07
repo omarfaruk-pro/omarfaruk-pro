@@ -35,6 +35,11 @@
 
 <br/>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=omarfaruk-pro&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/omarfaruk-pro/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/omarfaruk-pro/github-stats-transparent/output/generated/languages.svg)
+
 <!-- Tech Stack Section -->
 ### 🛠 Tech Stack
 - 💻 HTML, CSS, JavaScript
