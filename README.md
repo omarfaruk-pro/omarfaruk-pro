@@ -35,9 +35,9 @@
 
 <br/>
 <br/>
-<p align='center'>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=omarfaruk-pro&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-</p>
+<div align="center">
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=omarfaruk-pro&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+</div>
 <br/>
 <!-- Tech Stack Section -->
 ### 🛠 Tech Stack
