@@ -61,7 +61,7 @@
 
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:omarf01851@gmail.com" target="_blank">
+  <a href="mailto:farukomar.prof@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/omarfaruk56305/" target="_blank">
