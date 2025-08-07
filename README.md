@@ -36,9 +36,8 @@
 <br/>
 <br/>
 
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=omarfaruk-pro&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarfaruk-pro&show_icons=true&theme=dark" width="400">
 </p>
 <br/>
 <!-- Tech Stack Section -->
